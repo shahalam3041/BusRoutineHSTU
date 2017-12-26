@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="first_tab_text">This is the first Tab</string>
+    <string name="second_tab">Second Tab</string>
+</resources>
